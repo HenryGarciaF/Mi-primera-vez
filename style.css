@@ -1,6 +1,3 @@
-.Mi primera impresión {
-background-color: lightblue;
-}
 img {
 border: solid 5px black;
  border-radius: 15px;
@@ -8,25 +5,18 @@ border: solid 5px black;
 h1 {
 font-weight: bold;
 border: solid 5px black;
-background-color: white;
 border-radius: 15px;
 }
-h2 {
- font-size: 18px;
- color: blue;
-}
+
 body {
  background-color: #83E9E6;
- font-family: Trebuchet MS;
- color: white;
  text-align: center;
 }
 a {
 background-color: white;
-font-size: 20px;
 border-radius: 10px;
 padding: 10px;
  display: block;
- margin: 10px;
+ margin: 5px;
 border: solid 5px black;
 }
