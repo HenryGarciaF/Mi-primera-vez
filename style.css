@@ -1,9 +1,7 @@
-div {
-width: 50%;
-}
 img {
 border: solid 2px black;
  border-radius: 15px;
+text align: center;
 }
 h1 {
 background-color: blue;
