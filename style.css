@@ -3,6 +3,8 @@ border: solid 5px black;
  border-radius: 15px;
 }
 h1 {
+background-color: red;
+color: yellow;
 font-weight: bold;
 border: solid 5px black;
 border-radius: 15px;
