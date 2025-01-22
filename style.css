@@ -2,6 +2,7 @@ img {
 border: solid 2px black;
  border-radius: 15px;
 margin: 0 auto;
+display: block;
 }
 h1 {
 background-color: blue;
