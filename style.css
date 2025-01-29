@@ -1,7 +1,8 @@
 body {
   background-color: #D3E9FC;
-  font-family: Courier;
+  font-family: Smooch Sans;
   padding:10px;
+  font-size: 16px;
 }
 #portada {
   background-color: lightblue;
@@ -11,8 +12,8 @@ body {
   padding: 22px;
 }
   h1 {
-  border: 3px solid black;
   border-radius: 8px;
+  border: 3px solid black;
   width: 170px;
   margin: 0 auto;
   padding: 5px 8px;
@@ -47,7 +48,7 @@ img {
   border: solid;
   border-radius: 10px;
 }
-h3 {
+.Contactandform {
   text-align: left;
   border: solid;
   margin: 4px;
@@ -75,12 +76,35 @@ form button {
   width: 100%;
   color: white;
 }
-footer {
-  font-size: 10px;
-}
 .footer {
   background-color: #EDF8FF;
   padding: 5px;
   border-radius: 10px;
-  
+  font-size: 10px;
+}
+#navegación {
+  background-color: #D3E9FC;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 10px;
+  border: 16px dashed white;
+}
+.tema {
+  margin-top: 0;
+  background-color: white;
+  width: fit-content;
+  padding: 5px 14px;
+  border-radius: 10px;
+  font-size: 28px;
+}
+.navlist {
+  font-size: 22px;
+}
+ul a {
+  text-decoration: none;
+  color: #4C97E9;
+  font-weight: bold;
+}
+.amigo {
+  display: inline;
 }
