@@ -66,6 +66,8 @@ img {
 .casilla {
   line-height: 1.6;
   margin-top: 5px;
+  margin-left: 10px;
+  display: inline-block;
 }
 form button {
   margin-top: 5px;
